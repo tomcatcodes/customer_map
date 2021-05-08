@@ -1,3 +1,5 @@
+//TODO again this and index.js need work, not sure of their fucntion and need to do research
+
 var express = require('express');
 var router = express.Router();
 
