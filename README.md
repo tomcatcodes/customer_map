@@ -1,4 +1,4 @@
-### A easy to navigate customer map with filtering.
+# An easy to navigate customer map with filtering.
 
 Webserver is built on Node express and soon to be Vue frontend.
 
